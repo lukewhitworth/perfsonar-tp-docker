@@ -1,0 +1,9 @@
+{
+   "remotes" : [
+      {
+         "configure-archives" : true,
+         "url" : "https://xxx.xxx.xxx.xxx/psconfig/distribution-tests.json"
+      }
+   ],
+   "check-interval" : "PT10M"
+}
